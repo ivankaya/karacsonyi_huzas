@@ -10,7 +10,7 @@ flake8==3.6.0
 Flask==0.12.2
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 mccabe==0.6.1
 pycodestyle==2.4.0
